@@ -8,8 +8,8 @@
 </p>
 
 <h2 align="center"> 🌐 Skills</h2>
----
 <h3 align="left">Languages:</h3>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![Docker]](https://www.docker.com "Docker")  
 [![PostgreSQL]](https://www.postgresql.org "PostgreSQL")  
 [![Java]](https://www.java.com/en "Java")  
