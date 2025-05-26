@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 I have a strong passion for technology and software development.<br><br>🧠 Continuously expanding my knowledge, I focus on learning new tools and programming languages to enhance my technical expertise. <br><br>💭 My key areas of interest include database management, systems analysis, and software development. <br><br>💼 Currently, I am seeking opportunities to apply my skills in a professional setting and take the first steps in my career.</p>
+<p align="center">💻 Passionate about technology and software development. <br>🧠 Continuously learning new tools and programming languages. <br>💭 Interested in database management, systems analysis, and software development. <br>💼 Looking for opportunities to apply my skills professionally.</p>
 
 ###
 
@@ -35,11 +35,11 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="center">Languages</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
@@ -57,11 +57,11 @@
 
 ###
 
-<h2 align="left">Other technologies and tools</h2>
+<h2 align="center">Other technologies and tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
@@ -74,6 +74,10 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
+
+###
+
+<h2 align="center">📊 My GitHub stats</h2>
 
 ###
 
